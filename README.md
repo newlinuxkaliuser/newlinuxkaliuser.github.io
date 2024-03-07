@@ -1,4 +1,3 @@
-# newlinuxkaliuser.github.io
 # Work Experience Reflection at RedHat
 
 ## Overview
